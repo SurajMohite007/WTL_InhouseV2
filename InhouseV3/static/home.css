@@ -1,0 +1,37 @@
+body {
+    /* background-image: url('./newback.jpeg'); */
+    background-size: cover;
+    background-position: center;
+    height: 100%; /* Ensure full viewport height */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+}
+
+.card {
+    height: 5vh; /* Set the height to 100% to expand the card to its parent's height */
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 30vh; /* Set the height to 100% to expand the card body to fill the card */
+}
+/* .card-body {
+    display: flex;
+    flex-direction: column;
+} */
+.card-img, .card-img-bottom, .card-img-top {
+    height: 80%;
+    width: 100%;
+}
+.teacher select {
+    /* Adjust the position of the dropdown menu */
+    bottom: auto; /* Reset the bottom property */
+    top: 100%; /* Position the dropdown menu below the select element */
+}
+
+
+.col {
+    margin-top: 5%;
+}

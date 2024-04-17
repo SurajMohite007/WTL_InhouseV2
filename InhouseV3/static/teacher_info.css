@@ -1,0 +1,53 @@
+/* .teacher-info-table {
+    width: 100%;
+    border-collapse: collapse;
+    
+}
+
+.teacher-info-table th,
+.teacher-info-table td {
+    padding: 10%;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.teacher-info-table th {
+    background-color: #f2f2f2;
+}
+
+.teacher-info-table tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.teacher-info-table tbody tr:hover {
+    background-color: #ddd;
+}
+
+/* Table border */
+
+/* .teacher-info-table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid #ccc;
+}
+
+.teacher-info-table th,
+.teacher-info-table td {
+    padding: 12px; 
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.teacher-info-table th {
+    background-color: #f2f2f2;
+    border-right: 2px solid #ccc; 
+}
+
+.teacher-info-table tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.teacher-info-table tbody tr:hover {
+    background-color: #ddd;
+} */
+
